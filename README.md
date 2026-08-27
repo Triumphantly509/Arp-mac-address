@@ -35,4 +35,7 @@ PC0 understands the ARP Request is asking for it's IP address, it replies by an 
 
 Finally the switch receives the frame from pc0 via its port fastethernet 0/1 then send it to PC2.
 
+### Result
+Arp cache from PC2
+<img width="456" height="84" alt="image" src="https://github.com/user-attachments/assets/52dc61e0-596b-4d8f-b7a9-5978af12f063" />
 
